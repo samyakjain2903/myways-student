@@ -4,8 +4,45 @@
         "questions": []
     },
     {
-        "assesmentType": "informationOrdering",
-        "questions": []
+        "assesmentType": "mathematicalReasoning",
+        "questions": [
+            {
+                "questionNumber": "1",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "2",
+                "answer": "a"
+            },
+            {
+                "questionNumber": "3",
+                "answer": "a"
+            },
+            {
+                "questionNumber": "4",
+                "answer": "a"
+            },
+            {
+                "questionNumber": "5",
+                "answer": "a"
+            },
+            {
+                "questionNumber": "6",
+                "answer": "b"
+            },
+            {
+                "questionNumber": "7",
+                "answer": "d"
+            },
+            {
+                "questionNumber": "8",
+                "answer": "c"
+            },
+            {
+                "questionNumber": "9",
+                "answer": "d"
+            }
+        ]
     },
     {
         "assesmentType": "visualization",
